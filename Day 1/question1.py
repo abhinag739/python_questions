@@ -19,3 +19,14 @@ def twosum(nums, target) -> int:
 nums = [2,1,5,3,7,0,1]
 target = [8]
 print("the indices  which add up to match the target value", target[0], " are ", twosum(nums,target))
+
+
+
+"""Input
+nums = [2,1,5,3,7,0,1]
+target = [8]
+"""
+
+"""Output
+the indices  which add up to match the target value 8  are  [[1, 4], [2, 3], [3, 2], [4, 1], [4, 6]]
+"""
