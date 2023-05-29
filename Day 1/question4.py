@@ -34,7 +34,7 @@ def plusOne(nums):
     return results
 
 
-nums = [1,2,3]
+nums = [2,3,9]
 print(plusOne(nums))
 
 
